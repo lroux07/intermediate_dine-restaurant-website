@@ -1,0 +1,89 @@
+PRIMARY COLOR :
+#9e7f66
+#111111
+
+SECONDARY COLOR :
+#17192b
+#242b37
+#5c6779
+
+BUTTON DARCK MODE :
+button {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 1px solid #FFF;
+
+    color: #FFF;
+
+    font-family: League Spartan;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px; /* 94.118% */
+    letter-spacing: 2.5px;
+}
+
+button:hover {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 1px solid #FFF;
+    background: #FFF;  
+}
+
+/* INACTIVE BTN */
+button {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 1px solid #FFF;
+}
+
+
+BUTTON LIGHT MODE :
+button {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 1px solid #111;
+    color: #111;
+
+    font-family: League Spartan;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px; /* 94.118% */
+    letter-spacing: 2.5px;
+}
+
+button:hover {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    background: #111;
+    color: #FFF;
+
+    font-family: League Spartan;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px; /* 94.118% */
+    letter-spacing: 2.5px;
+}
+
+/* INACTIVE BTN */
+button {
+    width: 170px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 1px solid #111;
+    color: #111;
+
+    font-family: League Spartan;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px; /* 94.118% */
+    letter-spacing: 2.5px;
+}
